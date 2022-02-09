@@ -11,7 +11,7 @@ inputs:
     description: 'Version of Qt to install'
     default: '5.15.2'
   host:
-    description: 'Host platform'
+    description: 'linux'
   target:
     description: 'Target platform for build'
     default: 'desktop'
